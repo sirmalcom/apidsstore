@@ -1,0 +1,8 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sirmalcom/apidsstore.git",
+  "author": "Alexandersan <<i1921258@continental.edu.pe>>",
+  "license": "MIT"
+}
